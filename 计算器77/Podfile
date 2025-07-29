@@ -1,0 +1,7 @@
+platform :ios, '12.0'
+
+target '计算器77' do	
+  pod 'LookinServer', :configurations => ['Debug']
+  pod 'Masonry'
+end
+
